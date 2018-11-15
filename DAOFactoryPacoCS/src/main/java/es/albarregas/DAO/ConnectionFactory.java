@@ -7,10 +7,12 @@ package es.albarregas.DAO;
 
 import java.sql.Connection;
 import java.sql.SQLException;
-import javax.activation.DataSource;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.naming.Context;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
+import javax.sql.DataSource;
 
 
 /**
@@ -32,6 +34,8 @@ public class ConnectionFactory {
             conexion = datasource.getConnection();
         } catch (NamingException ex) {
             ex.printStackTrace();
+        } catch (SQLException ex) {
+            Logger.getLogger(ConnectionFactory.class.getName()).log(Level.SEVERE, null, ex);
         }
 
         return conexion;
@@ -46,6 +50,8 @@ public class ConnectionFactory {
             conexion = datasource.getConnection();
         } catch (NamingException ex) {
             ex.printStackTrace();
+        } catch (SQLException ex) {
+            Logger.getLogger(ConnectionFactory.class.getName()).log(Level.SEVERE, null, ex);
         }
 
         return conexion;
