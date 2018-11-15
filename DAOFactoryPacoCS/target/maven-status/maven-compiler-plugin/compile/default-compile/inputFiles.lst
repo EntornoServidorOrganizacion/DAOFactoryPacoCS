@@ -1,0 +1,10 @@
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/DAOFACTORY/DAOFactory.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/DAOFACTORY/DerbyDAOFactory.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/DAO/MySQLAvistamientosDAO.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/DAO/IAvistamientosDAO.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/DAO/ConnectionFactory.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/DAO/DerbyAvistamientoDAO.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/controllers/ControladorDatosSalida.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/controllers/ConductorFlujo.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/DAOFACTORY/MySQLDAOFactory.java
+/Users/paco/NetBeansProjects/Entorno Servidor/DAOFactoryPacoCS/DAOFactoryPacoCS/src/main/java/es/albarregas/beans/Avistamientos.java
